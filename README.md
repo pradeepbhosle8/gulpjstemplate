@@ -30,6 +30,7 @@ Gulpjs Using frontend template
 - gulp-imagemin task
 - browser-sync task
 
-1.  Step 1 Clone Gulpjs Template
-2.  Step 2 npm install 
-3.  Step 3 gulp
+1.  Step 1 Clone https://github.com/pradeepbhosle8/gulpjstemplate.git or Download
+2.  Step 2 Go to folder directory
+3.  Step 3 npm install 
+4.  Step 4 Open terminal run **gulp**
